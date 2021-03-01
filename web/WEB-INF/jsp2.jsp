@@ -1,6 +1,6 @@
 <%-- 
-    Document   : jsp1
-    Created on : 27 févr. 2021, 23:02:21
+    Document   : jsp2
+    Created on : 1 mars 2021, 13:46:02
     Author     : mahmo
 --%>
 
@@ -13,6 +13,6 @@
     </head>
     <body>
         <h1>Hello World!</h1>
-        <p>bonjour</p>
+        <p>bonjour tout le monde</p>
     </body>
 </html>
